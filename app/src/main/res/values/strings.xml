@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KonversiApp</string>
+    <string name="app_title">My App V2</string>
+    <string name="app_exchange_rate_conversion">Konversi Rupiah</string>
+    <string name="app_temperature_conversion">Konversi Suhu</string>
+    <string name="app_exchange_rate_title">Konversi IDR ke USD</string>
+    <string name="app_exchange_rate_input_label">Input Nilai Rupiah</string>
+    <string name="app_exchange_rate_result_label">Hasil Konversi: $</string>
+    <string name="app_exchange_rate_button_calculate">Cek Dolar</string>
+    <string name="app_temperature_title">Konversi Celcius</string>
+    <string name="app_temperature_input_label">Input Nilai Celcius</string>
+    <string name="app_temperature_result_fahrenheit_label">Hasil Konversi Fahrenheit</string>
+    <string name="app_temperature_result_reaumur_label">Hasil Konversi Reaumur</string>
+    <string name="app_temperature_result_kelvin_label">Hasil Konversi Kelvin</string>
+    <string name="app_temperature_button_calculate">Cek Suhu</string>
+    <string name="equals">=</string>
+</resources>
